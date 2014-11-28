@@ -1,0 +1,6 @@
+[submodule "hdx-frontend"]
+	path = hdx-frontend
+	url = git@github.com:defektive/hdx-frontend.git
+[submodule "hdx-api"]
+	path = hdx-api
+	url = git@github.com:defektive/hdx-api.git
